@@ -2,9 +2,7 @@
 
 ### Overview
 
-This laboratory session focuses on **Statistical Analysis**, a key topic in Mathematics and Data Science. Students will solve a range of statistics-related problems using **NumPy** and **pandas**, which provide the data structures and functionality needed for statistical computation, and **Matplotlib** to visualise the datasets.
-
-Follows *[LaboratorySession5.pdf](LaboratorySession5.pdf)*.
+This laboratory session focuses on **Statistical Analysis**, a key topic in Mathematics and Data Science. Students will solve a range of statistics-related problems using **NumPy** and **P****andas**, which provide the data structures and functionality needed for statistical computation, and **Matplotlib** to visualise the datasets.
 
 ---
 
@@ -76,24 +74,13 @@ Calculate the **Interquartile Range (IQR)** for the dataset.
 
 ---
 
-## How this session relates to Tutorial 04
 
-
-| Tutorial 04                                | Tutorial 05                                             |
-| ------------------------------------------ | ------------------------------------------------------- |
-| Data preprocessing and pandas structures   | Statistical analysis of a dataset                       |
-| Cleaning, aggregation, multi-panel figures | Mean, median, range, standard deviation, quartiles, IQR |
-| Series, DataFrames, `groupby`, `subplots`  | NumPy statistical functions and pandas `describe`       |
-
-
----
 
 ## References
 
 - [NumPy Documentation](https://numpy.org/doc/)
 - [NumPy — Statistics functions](https://numpy.org/doc/stable/reference/routines.statistics.html)
 - [pandas Documentation](https://pandas.pydata.org/docs/)
-- [pandas — `DataFrame.describe](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html)`
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 
 ---
