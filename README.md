@@ -53,7 +53,7 @@ Initialise a pandas **DataFrame** with the values from the previously initialise
 
 ### Task 4: Descriptive Statistics with `describe`
 
-By using the `**describe`** method from the pandas library, provide the following information for the generated dataset:
+By using the `**describe**` method from the pandas library, provide the following information for the generated dataset:
 
 - Mean
 - Lower quartile
@@ -80,7 +80,7 @@ Calculate the **Interquartile Range (IQR)** for the dataset.
 
 - [NumPy Documentation](https://numpy.org/doc/)
 - [NumPy — Statistics functions](https://numpy.org/doc/stable/reference/routines.statistics.html)
-- [pandas Documentation](https://pandas.pydata.org/docs/)
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 
 ---
