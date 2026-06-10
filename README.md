@@ -2,7 +2,7 @@
 
 ### Overview
 
-This laboratory session focuses on **Statistical Analysis**, a key topic in Mathematics and Data Science. Students will solve a range of statistics-related problems using **NumPy** and **P****andas**, which provide the data structures and functionality needed for statistical computation, and **Matplotlib** to visualise the datasets.
+This laboratory session focuses on **Statistical Analysis**, a key topic in Mathematics and Data Science. Students will solve a range of statistics-related problems using **NumPy** and **Pandas**, which provide the data structures and functionality needed for statistical computation, and **Matplotlib** to visualise the datasets.
 
 ---
 
